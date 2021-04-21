@@ -1,0 +1,15 @@
+{
+  "name": "test-yarn2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --silent"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@substrate/dev": "^0.4.1"
+  }
+}
